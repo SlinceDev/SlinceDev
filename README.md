@@ -18,7 +18,7 @@ web : https://slincedev.netlify.app/
 
 # 💻 Lenguajes 
 
-<a href=""<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://www.python.org"<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 
 # 📩 Contacto
 
