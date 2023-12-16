@@ -20,7 +20,12 @@ web : https://slincedev.netlify.app/
 
 <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a herf = "https://github.com/SlinceDev" a>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a> y mas
+
+
+ <p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=formidablae&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
 
 # 📩 Contacto
 
