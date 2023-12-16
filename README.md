@@ -2,7 +2,19 @@
 
 **Dessarollador de Software**
 
-# 🧑‍💻 Sobre ni 
+# 🧑‍💻 Sobre mi 
+
+Desarrollador de Software
+
+web : https://slincedev.netlify.app/
+
+🎈 Aprendiendo: Desarrollo de Apps
+
+🔨 Trabajando en: Mi web
+
+💼 Trabajando para: Kryson Studios
+
+🎉 Aficiones: Programar, Fotografía y deporte de Motor
 
 # 💻 Lenguajes 
 
