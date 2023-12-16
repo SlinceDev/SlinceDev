@@ -28,7 +28,7 @@ web : https://slincedev.netlify.app/
 
 # 📩 Contacto
 
-**Discord :**  *slince_dev*
+**Discord :**  *@slince_dev*
 
 **Instagran :**  *[slince_dev](https://www.instagram.com/slince_dev/)*
 
