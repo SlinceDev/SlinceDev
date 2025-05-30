@@ -1,6 +1,6 @@
 ### Hi I am Slince 👋
 
-**Dessarollador de Software**
+**Dessarollador de Software** licenciado en sistemas microinformaticos y redes
 
 # 🧑‍💻 Sobre mi 
 
@@ -14,7 +14,7 @@ web : https://slincedev.netlify.app/
 
 💼 Trabajando para: Kryson Studios
 
-🎉 Aficiones: Programar, Fotografía y deporte de Motor
+🎉 Aficiones: Programar, Instrumentos, Fotografía y deporte de Motor
 
 # 💻 Lenguajes 
 
